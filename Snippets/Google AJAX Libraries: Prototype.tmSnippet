@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;script src="http://ajax.googleapis.com/ajax/libs/prototype/${1:1.6}/prototype.js"&gt;&lt;/script&gt;</string>
+	<string>&lt;script src="//ajax.googleapis.com/ajax/libs/prototype/${1:1.6}/prototype.js"&gt;&lt;/script&gt;</string>
 	<key>name</key>
 	<string>Google AJAX Libraries: Prototype</string>
 	<key>scope</key>

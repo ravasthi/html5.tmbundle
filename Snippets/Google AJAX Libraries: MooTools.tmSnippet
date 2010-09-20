@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;script src="http://ajax.googleapis.com/ajax/libs/mootools/${1:1.2}/mootools${2:-yui-compressed}.js"&gt;&lt;/script&gt;</string>
+	<string>&lt;script src="//ajax.googleapis.com/ajax/libs/mootools/${1:1.2}/mootools${2:-yui-compressed}.js"&gt;&lt;/script&gt;</string>
 	<key>name</key>
 	<string>Google AJAX Libraries: MooTools</string>
 	<key>scope</key>
@@ -14,3 +14,4 @@
 	<string>A150DD2B-3CBB-415E-A76D-80772CF725D3</string>
 </dict>
 </plist>
+

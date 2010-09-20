@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;script src="http://ajax.googleapis.com/ajax/libs/swfobject/${1:2.2}/swfobject${2:_src}.js"&gt;&lt;/script&gt;</string>
+	<string>&lt;script src="//ajax.googleapis.com/ajax/libs/swfobject/${1:2.2}/swfobject${2:_src}.js"&gt;&lt;/script&gt;</string>
 	<key>name</key>
 	<string>Google AJAX Libraries: SWFObject</string>
 	<key>scope</key>
