@@ -35,8 +35,6 @@
 			<string>20D760B5-A127-11D9-A5A2-000D93C8BE28</string>
 			<string>BC8B8AE2-5F16-11D9-B9C3-000D93589AF6</string>
 			<string>991E7EBD-F3F5-469A-BA01-DC30E04AD472</string>
-			<string>8415F03D-0CE4-4478-808B-65ED611D5BCD</string>
-			<string>CEF25D24-ED3B-445E-890E-124984B1C842</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -290,6 +288,8 @@
 					<string>34438ACE-808E-4D60-8589-826FB7C6CBE0</string>
 					<string>F3BE0F2E-93D8-40FD-BA2B-4636F7726DDC</string>
 					<string>157E2240-DC62-40C7-8BEE-2EA193E575F4</string>
+					<string>8415F03D-0CE4-4478-808B-65ED611D5BCD</string>
+					<string>CEF25D24-ED3B-445E-890E-124984B1C842</string>
 				</array>
 				<key>name</key>
 				<string>Javascript Libraries</string>
