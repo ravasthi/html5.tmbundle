@@ -21,6 +21,7 @@
 			<string>------------------------------------</string>
 			<string>A7283C84-9E44-4D4A-983A-0F185F68BB71</string>
 			<string>B002A609-8235-4368-BBA8-B35FBF4F676E</string>
+			<string>7E81E32E-BAB1-4BD3-BFDC-17E319F6244D</string>
 			<string>------------------------------------</string>
 			<string>98F922A8-AE66-4787-9CE2-50F3E5924E36</string>
 			<string>2E2E84F9-D2E2-44E2-9B31-6FEC64E0D277</string>
@@ -34,6 +35,8 @@
 			<string>20D760B5-A127-11D9-A5A2-000D93C8BE28</string>
 			<string>BC8B8AE2-5F16-11D9-B9C3-000D93589AF6</string>
 			<string>991E7EBD-F3F5-469A-BA01-DC30E04AD472</string>
+			<string>8415F03D-0CE4-4478-808B-65ED611D5BCD</string>
+			<string>CEF25D24-ED3B-445E-890E-124984B1C842</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -111,6 +114,16 @@
 				</array>
 				<key>name</key>
 				<string>Grouping content</string>
+			</dict>
+			<key>7E81E32E-BAB1-4BD3-BFDC-17E319F6244D</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>067A025E-9E05-493D-A57F-2B563927213D</string>
+					<string>13A82635-CD7A-4EDC-B1BB-306F905DF2BE</string>
+				</array>
+				<key>name</key>
+				<string>Comments</string>
 			</dict>
 			<key>8A265312-483B-4666-B129-79D6AECAED87</key>
 			<dict>
