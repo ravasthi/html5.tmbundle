@@ -58,7 +58,6 @@ $tags = {
 "mark" =&gt; "the-mark-element",
 "dfn" =&gt; "the-dfn-element",
 "abbr" =&gt; "the-abbr-element",
-"time" =&gt; "the-time-element",
 "progress" =&gt; "the-progress-element",
 "meter" =&gt; "the-meter-element",
 "code" =&gt; "the-code-element",
