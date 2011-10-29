@@ -19,7 +19,7 @@
 	<string>&lt;!DOCTYPE|doctype|&lt;(?i:html)|&lt;\?(?i:php)</string>
 	<key>foldingStartMarker</key>
 	<string>(?x)
-		(&lt;(?i:a|article|aside|audio|blockquote|body|canvas|datalist|details|div|dl|fieldset|figcaption|figure|footer|form|head|header|hgroup|li|mark|menu|meter|nav|ol|output|p|progress|rp|rt|ruby|script|section|select|small|style|summary|table|tbody|tfoot|thead|tr|ul|video)\b.*?&gt;
+		(&lt;(?i:a|article|aside|audio|blockquote|body|canvas|datalist|details|div|dl|fieldset|figcaption|figure|footer|form|head|header|hgroup|li|mark|menu|meter|nav|ol|output|p|progress|rp|rt|ruby|script|section|select|small|style|summary|table|tbody|tfoot|thead|tr|ul|video|data)\b.*?&gt;
 		|&lt;!--(?!.*--\s*&gt;)
 		|^&lt;!--\ \#tminclude\ (?&gt;.*?--&gt;)$
 		|&lt;\?(?:php)?.*\b(if|for(each)?|while)\b.+:
@@ -28,7 +28,7 @@
 		)</string>
 	<key>foldingStopMarker</key>
 	<string>(?x)
-		(&lt;/(?i:a|article|aside|audio|blockquote|body|canvas|datalist|details|div|dl|fieldset|figcaption|figure|footer|form|head|header|hgroup|li|mark|menu|meter|nav|ol|output|p|progress|rp|rt|ruby|script|section|select|small|style|summary|table|tbody|tfoot|thead|tr|ul|video)&gt;
+		(&lt;/(?i:a|article|aside|audio|blockquote|body|canvas|datalist|details|div|dl|fieldset|figcaption|figure|footer|form|head|header|hgroup|li|mark|menu|meter|nav|ol|output|p|progress|rp|rt|ruby|script|section|select|small|style|summary|table|tbody|tfoot|thead|tr|ul|video|data)&gt;
 		|^(?!.*?&lt;!--).*?--\s*&gt;
 		|^&lt;!--\ end\ tminclude\ --&gt;$
 		|&lt;\?(?:php)?.*\bend(if|for(each)?|while)\b
