@@ -41,7 +41,6 @@ $tags = {
 "hr" =&gt; "the-hr-element",
 "br" =&gt; "the-br-element",
 "pre" =&gt; "the-pre-element",
-"dialog" =&gt; "the-dialog-element",
 "blockquote" =&gt; "the-blockquote-element",
 "ol" =&gt; "the-ol-element",
 "ul" =&gt; "the-ul-element",
