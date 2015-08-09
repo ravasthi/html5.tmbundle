@@ -5,7 +5,7 @@
 	<key>beforeRunningCommand</key>
 	<string>nop</string>
 	<key>command</key>
-	<string>#!/usr/bin/env ruby
+	<string>#!/usr/bin/env rvm-auto-ruby
 STDOUT.sync = true
 
 page = STDIN.read
@@ -22,19 +22,25 @@ io &lt;&lt; page; io.close_write
   end
 end
 </string>
-	<key>dontFollowNewOutput</key>
-	<true/>
 	<key>input</key>
 	<string>document</string>
+	<key>inputFormat</key>
+	<string>text</string>
 	<key>keyEquivalent</key>
 	<string>^V</string>
 	<key>name</key>
 	<string>Validate HTML</string>
-	<key>output</key>
-	<string>showAsHTML</string>
+	<key>outputCaret</key>
+	<string>afterOutput</string>
+	<key>outputFormat</key>
+	<string>html</string>
+	<key>outputLocation</key>
+	<string>newWindow</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>uuid</key>
 	<string>1274DFD1-175E-43A0-B226-58EF777D0285</string>
+	<key>version</key>
+	<integer>2</integer>
 </dict>
 </plist>
